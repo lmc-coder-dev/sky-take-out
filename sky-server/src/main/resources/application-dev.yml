@@ -6,3 +6,9 @@ sky:
     database: sky_take_out
     username: root
     password: LIUyuxuan2020822
+
+  alioss:
+    oss:
+      bucket-name: sky-take-out-lmc
+      endpoint: https://oss-cn-beijing.aliyuncs.com
+      region: cn-beijing
